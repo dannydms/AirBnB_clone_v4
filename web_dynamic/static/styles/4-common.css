@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body .container {
+    max-width: 1000px;
+    margin: 30px auto;
+}
+.reviews {
+	border-top: 1px solid #DDDDDD;
+	padding-top: 5px;
+	position: relative;
+	margin-top: 25px;
+	width: 100%;
+}
+
+.review_item {
+	margin-bottom: 10px;
+}
+
+.review_text {
+	margin: 0px;
+}
